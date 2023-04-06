@@ -86,7 +86,7 @@ There is no Norminette in this exam.
 
 Type examshell in terminal
 
-    login -> your 42 intra username (eg. prossi)
+    login -> your 42 intra username 
     pasword -> your password
 
 Allow photo check
